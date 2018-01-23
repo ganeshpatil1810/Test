@@ -1,8 +1,2 @@
-
-First line added to create conflict
-This is conflict changes.
-
-
-
-Second File
+File changes from C.
 
