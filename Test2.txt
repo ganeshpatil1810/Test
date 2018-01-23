@@ -1,6 +1,6 @@
 
 First line added to create conflict
-Try with Fetch
+This is conflict changes.
 
 
 
